@@ -1,0 +1,6 @@
+[submodule "EAP-IG"]
+	path = EAP-IG
+	url = https://github.com/hannamw/EAP-IG.git
+[submodule "MIB-circuit-track"]
+	path = MIB-circuit-track
+	url = https://github.com/hannamw/MIB-circuit-track.git
